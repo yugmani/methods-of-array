@@ -1,6 +1,6 @@
 .container {
   margin: 0 auto;
-  width: 80%;
+  width: 60%;
   background-color: darkgray;
 }
 
@@ -54,8 +54,8 @@ ul li {
   content: "$";
 }
 
-mark {
-  background-color: lightgray;
-  padding: 0;
+.mark {
+  background-color: white;
+  padding: 5px 10px;
   font-family: "Courier New", Courier, monospace;
 }
